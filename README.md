@@ -23,7 +23,7 @@
 | Operator | Description |
 |----------|-------------|
 | `&&`     | Logical AND |
-| '||'     | Logical OR  |
+| `\|\|`   | Logical OR  |
 | `!`      | Logical NOT |
 
 ## 4. Assignment Operators
@@ -40,7 +40,7 @@
 | Operator | Description        |
 |----------|--------------------|
 | `&`      | AND                |
-| '|'      | OR                 |
+| '\|'      | OR                 |
 | `^`      | XOR                |
 | `~`      | NOT (Complement)   |
 | `<<`     | Left Shift         |
