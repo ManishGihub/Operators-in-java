@@ -40,7 +40,7 @@
 | Operator | Description        |
 |----------|--------------------|
 | `&`      | AND                |
-| '\|'      | OR                 |
+| `\|`     | OR                 |
 | `^`      | XOR                |
 | `~`      | NOT (Complement)   |
 | `<<`     | Left Shift         |
